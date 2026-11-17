@@ -6,7 +6,7 @@
 
 Hebrew dates, festivals and daily prayer times in a native Mac calendar.
 
-**Public preview — 0.8.4-preview.1.** A feature-freeze prerelease for testing, not a finished release or an App Store-approved build. [Website](https://webservices-org.github.io/yomvezman-releases/) · [Download and release notes](https://github.com/WEBServices-ORG/yomvezman-releases/releases/tag/v0.8.4-preview.1).
+**Public preview — 0.8.4-preview.1.** A feature-freeze prerelease for testing, not a finished release or an App Store-approved build. [Website](https://webservices-org.github.io/yomvezman/) · [Download and release notes](https://github.com/WEBServices-ORG/yomvezman/releases/tag/v0.8.4-preview.1).
 
 The DMG contains app version **0.8.4 (14)**. The preview label identifies this distribution; it does not change the signed app version.
 
@@ -24,7 +24,7 @@ YomVezman 0.6.1 · Jerusalem sample calendar. 720p preview (1280 × 720).
 
 ## Install
 
-1. Download the [Apple-silicon DMG](https://github.com/WEBServices-ORG/yomvezman-releases/releases/download/v0.8.4-preview.1/YomVezman-0.8.4-14-arm64.dmg).
+1. Download the [Apple-silicon DMG](https://github.com/WEBServices-ORG/yomvezman/releases/download/v0.8.4-preview.1/YomVezman-0.8.4-14-arm64.dmg).
 2. Open the DMG and drag YomVezman to Applications.
 3. Eject the disk image and open YomVezman from Applications.
 4. Choose a city and timezone. Check the Israel/diaspora schedule, candle-lighting offset and Havdalah method for your practice.
@@ -59,7 +59,7 @@ If you find YomVezman useful, you can [support its development via PayPal](https
 
 ## Support and privacy
 
-For app support or privacy questions, email [beacons_mobile_9k@icloud.com](mailto:beacons_mobile_9k@icloud.com). Read the [privacy notice](https://webservices-org.github.io/yomvezman-releases/privacy.html). Do not post private locations, credentials or other sensitive information in public issue reports. Useful reports include the app version, macOS version, the steps taken and what happened.
+For app support or privacy questions, email [beacons_mobile_9k@icloud.com](mailto:beacons_mobile_9k@icloud.com). Read the [privacy notice](https://webservices-org.github.io/yomvezman/privacy.html). Do not post private locations, credentials or other sensitive information in public issue reports. Useful reports include the app version, macOS version, the steps taken and what happened.
 
 ## Repository scope
 
