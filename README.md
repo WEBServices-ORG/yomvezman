@@ -6,7 +6,7 @@
 
 Hebrew dates, festivals and daily prayer times in a native Mac calendar.
 
-**Public preview — 0.8.4-preview.1.** A feature-freeze prerelease for testing, not a finished release or an App Store-approved build. [Website](https://webservices-org.github.io/yomvezman/) · [Download and release notes](https://github.com/WEBServices-ORG/yomvezman/releases/tag/v0.8.4-preview.1).
+**Public preview — 0.8.4-preview.2.** A feature-freeze prerelease for testing, not a finished release or an App Store-approved build. [Website](https://webservices-org.github.io/yomvezman/) · [Download and release notes](https://github.com/WEBServices-ORG/yomvezman/releases/tag/v0.8.4-preview.2).
 
 The DMG contains app version **0.8.4 (14)**. The preview label identifies this distribution; it does not change the signed app version.
 
@@ -24,7 +24,7 @@ YomVezman 0.6.1 · Jerusalem sample calendar. 720p preview (1280 × 720).
 
 ## Install
 
-1. Download the [Apple-silicon DMG](https://github.com/WEBServices-ORG/yomvezman/releases/download/v0.8.4-preview.1/YomVezman-0.8.4-14-arm64.dmg).
+1. Download the [Apple-silicon DMG](https://github.com/WEBServices-ORG/yomvezman/releases/download/v0.8.4-preview.2/YomVezman-0.8.4-14-arm64.dmg).
 2. Open the DMG and drag YomVezman to Applications.
 3. Eject the disk image and open YomVezman from Applications.
 4. Choose a city and timezone. Check the Israel/diaspora schedule, candle-lighting offset and Havdalah method for your practice.
@@ -78,5 +78,5 @@ Acceptance checks still open: full Dock-free window lifecycle and recovery; firs
 SHA-256 (`YomVezman-0.8.4-14-arm64.dmg`):
 
 ```text
-724f5211595af4889694a9ee960c44b031002989c37a1f130f2685e87b2a17fc
+2805c544439e7c1853952e989a0f8c449f2599d341b976ea1e884d380a491074
 ```
